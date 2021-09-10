@@ -1,0 +1,35 @@
+ISI SISTEM INFORMASI ADAKOTHRIFT.ID
+
+CUSTOMER
+1. - SIGN UP 
+	- Nama
+	- Email (Gmail, yahoo, icloud dll)
+	- Pass
+   - LOGIN
+	- Email
+	- Pass
+2. profile business, testimoni
+3. katalog
+	- Kategori
+	- Gambar
+	- Harga
+	- Kondisi
+	- Keranjang (Terhubung ke link pembelanjaan)
+4. Pembelanjaan
+	- Produk yang dipilih
+	- jumlah&Harga
+	- Jenis Pembayaran (COD,Tf)
+	- Alamat 
+
+ADMIN
+1. - SIGN UP 
+	- Nama
+	- Email (Gmail, yahoo, icloud dll)
+	- Pass
+   - LOGIN
+	- Email
+	- Pass
+2. Daftar Akun
+	- Database User (Email, Username, Pass)
+3. Daftar Pemesanan
+	- Informasi pembelanjaan User/Custome
