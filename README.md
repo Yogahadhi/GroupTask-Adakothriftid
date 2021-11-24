@@ -1,5 +1,5 @@
 # GroupTask-Adakothriftid
-Tugas Kelompok 1 Sistem Informasi Kelas A
+Tugas Kelompok 1 Sistem Informasi Kelas A :
 
 1. Muh Yoga Triatmojo (D121191007)
 
